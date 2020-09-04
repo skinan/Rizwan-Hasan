@@ -1,7 +1,9 @@
-### Hi there 👋
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=Rizwan-Hasan&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
+</p>
 
 <!--
-**Rizwan-Hasan/Rizwan-Hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rizwan-Hasan/rizwan-hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
